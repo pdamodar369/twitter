@@ -1,0 +1,10 @@
+.twitter-tweet {
+    width: 50%;
+    margin: auto;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
